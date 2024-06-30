@@ -1,3 +1,2 @@
 This is f1.txt file.
 Second line is being created.
-this is third line , we are pussing from git web.
